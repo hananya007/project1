@@ -1,1 +1,2 @@
 "This is Vicky"
+Adding a new line to file2
